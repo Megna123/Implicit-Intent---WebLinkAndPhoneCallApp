@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Tue Feb 26 11:02:52 PST 2019
+2.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\49
+5.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51
+6.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=DEX
+10.set=DEX
+10.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50\\classes.dex
+4.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53\\classes.dex
+7.set=DEX
+count=11
+0.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_a.xml
+5.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54
+8.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\image.JPG
+10.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53
+2.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\49\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52
+3.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+9.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+8.set=DEX
+0.set=ANDROID_RESOURCE
